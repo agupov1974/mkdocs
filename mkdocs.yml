@@ -1,7 +1,7 @@
-site_name: Моя документация
-site_description: "Крутой сайт с документацией"
-site_author: "Ваше Имя"
-site_url: "https://ваш-username.github.io/mkdocs/"
+site_name: Документация
+site_description: "Описание используемых продуктов"
+site_author: "Михаил Агупов"
+site_url: "https://agupov1974.github.io/mkdocs/"
 
 theme:
   name: material
