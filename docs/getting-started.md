@@ -4,7 +4,7 @@
 
 Для работы с документацией выполните:
 
-```bash
+```bash title="bash"
 make serve
 ```
 
@@ -23,6 +23,7 @@ make serve
 ##Полезные команды
 
 Команда	Описание
+
 - `make serve`	- Запустить сервер
 - `make build`	- Собрать сайт
 - `make clean`	- Очистить сборку
@@ -38,14 +39,17 @@ make serve
 Описание функции.
 
 **Параметры:**
+
 - `param1` (str) - Первый параметр
 - `param2` (int) - Второй параметр
 
 **Возвращает:**
+
 - `bool` - Результат операции
 
 **Пример:**
-```python
+
+```python title="python"
 def example(param1, param2):
     return param1 == str(param2)
 ```
